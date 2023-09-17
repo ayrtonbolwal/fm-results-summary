@@ -1,0 +1,20 @@
+:root{
+    --lightRed: ;
+    --orangeYellow: ;
+    --greenTalet: ;
+    --cobaltBlue: ;
+
+    --lightSlateBlue: ;
+    --lightRoyalBlue: ;
+    --violetBlue: ;
+    --persianBlue: ;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 18px;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
