@@ -44,7 +44,7 @@ body {
   width: 735px;
   height: 515px;
 
-  border-radius: 1rem;
+  border-radius: 2rem;
   overflow: hidden;
   box-shadow: 5px 10px 15px 10px #12121210;
 }
@@ -53,7 +53,8 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 3rem;
+  padding: 2rem 3rem;
+  border-radius: 0rem 2rem 2rem 0rem;
 
   background: rgb(120, 87, 255);
   background: linear-gradient(
@@ -73,8 +74,8 @@ body {
     rgba(0, 0, 0, 0) 0%,
     rgba(78, 33, 202, 1) 100%
   );
-  width: 175px;
-  height: 175px;
+  width: 200px;
+  height: 200px;
 
   display: flex;
   flex-direction: column;
@@ -100,7 +101,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 3rem 2rem;
+  padding: 2rem;
 }
 .target__summary-title{
   color: #2E3350;
